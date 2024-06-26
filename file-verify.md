@@ -5,8 +5,7 @@ Step 1: ihuandu applies to SHECA for an SSL certificate that supports the IP thr
 
 Step 2: ihuandu obtains the file verification path and verification value through the operator platform interface, as shown in the following figure
 
-![image](https://github.com/SHECA-Alvin/cabgroup/assets/163508594/b0dcedd0-5060-4b0a-a282-9d7c3d9fdd28#pic_left)
-
+![image](https://github.com/SHECA-Alvin/cabgroup/assets/163508594/8835a474-8350-4147-88fc-8b7b67c2914d#pic_left)
 
 Step 3: By default, SHECA scans the paths under ports 443 and 80 under the IP to verify whether the expected values ​​are configured.
 
