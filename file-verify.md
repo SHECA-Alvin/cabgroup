@@ -1,7 +1,7 @@
 第一步：环度通过SEHCA提供的运营商平台向SHECA申请 支持IP的SSL申请。
 
 第二步：环度通过运营商平台的界面获取文件验证路径和验证值，如下图展示
- ![image](https://github.com/SHECA-Alvin/cabgroup/assets/163508594/3e39ccce-dd0d-46ff-a821-92d99d245739#pic_left) 
+![image](https://github.com/SHECA-Alvin/cabgroup/assets/163508594/3e39ccce-dd0d-46ff-a821-92d99d245739#pic_left) 
 
 第三步：SHECA默认会去扫描该IP下的443和80端口下的路径去验证是否配置了预期值。
 
