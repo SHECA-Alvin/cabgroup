@@ -1,4 +1,5 @@
-The following is the complete process of SHECA IP (113.10.156.232) address verification:
+
+The following is the complete process of SHECA verifying the IP address (113.10.156.232) for the above certificate:
 
 Step 1: ihuandu applies to SHECA for an SSL certificate that supports the IP through the operator platform provided by SHECA.
 
