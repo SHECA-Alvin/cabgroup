@@ -3,7 +3,7 @@ The following is the complete process of SHECA IP (113.10.156.232) address verif
 Step 1: ihuandu applies to SHECA for an SSL certificate that supports the IP through the operator platform provided by SHECA.
 
 Step 2: ihuandu obtains the file verification path and verification value through the operator platform interface, as shown in the following figure
-![image](https://github.com/SHECA-Alvin/cabgroup/assets/163508594/c637902a-9d49-49d3-b2b3-39b6d7d17a​​7e)
+![image](https://github.com/SHECA-Alvin/cabgroup/assets/163508594/c637902a-9d49-49d3-b2b3-39b6d7d17a​​7e#pic_left)  
 
 Step 3: By default, SHECA scans the paths under ports 443 and 80 under the IP to verify whether the expected values ​​are configured.
 
