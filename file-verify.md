@@ -12,4 +12,4 @@ Step 3: By default, SHECA scans the paths under ports 443 and 80 under the IP to
 The domain name verification scan log of the relevant system is as follows:
 ![image](https://github.com/SHECA-Alvin/cabgroup/assets/163508594/c379289e-90ab-4211-b902-5a9f4e9d431b#pic_left)
 
-From the log, we can see that SHECA scanned the expected value through the 443 port of the IP, and judged that the domain name verification passed. Since this discussion does not involve enterprise information verification, it will not be described in detail here.
+From the log, we can see that SHECA scanned the expected value through the 443 port of the IP, and judged that the domain name verification passed. Since this discussion does not involve organization    information validation, it will not be described in detail here.
