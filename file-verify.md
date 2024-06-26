@@ -3,14 +3,12 @@ First of all, it needs to be clarified that 113.10.156.232 only applied for two 
 
 https://crt.sh/?id=12806661692 is a new certificate and a pre-certificate
 
-
-
 https://crt.sh/?id=12813257892 is a leaf certificate, and the serial numbers of https://crt.sh/?id=12807160321 and  https://crt.sh/?id=12813257892 are the same
 
-https://crt.sh/?id=12807160321 is a re-signed certificate of  https://crt.sh/?id=12806661692, and the audit information of  https://crt.sh/?id=12806661692 is reused
-
+https://crt.sh/?id=12807160321 is a re-signed certificate of  https://crt.sh/?id=12806661692, and the audit information of  https://crt.sh/?id=12806661692 is reused 
 
 The following is the complete process of IP address verification for this certificate https://crt.sh/?id=12806661692：
+
 Step 1:  ihuandu   applies to SHECA for SSL application supporting IP through the operator platform provided by SHECA.
 
 Step 2:  ihuandu  obtains the file verification path and verification value through the operator platform interface, as shown in the following figure 
