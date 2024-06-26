@@ -1,11 +1,11 @@
 
-First of all, it needs to be clarified that 113.10.156.232 only applied for two certificates in SHECA
+First of all, it should be made clear that 113.10.156.232 only applied for two certificates in SHECA
 
-https://crt.sh/?id=12806661692 is a new certificate and a pre-certificate
+The first certificate was issued at 10:29 on April 22, 2024, and the corresponding CT pre-certificate is https://crt.sh/?id=12806661692
 
-https://crt.sh/?id=12813257892 is a leaf certificate, and the serial numbers of https://crt.sh/?id=12807160321 and  https://crt.sh/?id=12813257892 are the same
+The certificate was re-issued at 11:26 on April 22, 2024. The corresponding CT pre-certificate is https://crt.sh/?id=12807160321, and the re-issue reused the validation information of https://crt.sh/?id=12806661692
 
-https://crt.sh/?id=12807160321 is a re-signed certificate of  https://crt.sh/?id=12806661692, and the validation information of  https://crt.sh/?id=12806661692 is reused 
+https://crt.sh/?id=12813257892 is the leaf certificate corresponding to https://crt.sh/?id=12807160321, which may have been uploaded to CT by the user
 
 The following is the complete process of IP address verification for this certificate https://crt.sh/?id=12806661692：
 
